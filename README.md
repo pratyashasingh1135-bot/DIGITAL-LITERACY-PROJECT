@@ -30,6 +30,41 @@ This actually contains a  case study which explains a particular type of cybercr
 Links :-
 Google form -https://docs.google.com/forms/d/e/1FAIpQLScyDz_91Ykuc46HtGl6jzqzoCjikR1DIaDHA08UTDudMdv0Pg/viewform?usp=sharing&ouid=104918458002411872132
 Github repository - https://github.com/pratyashasingh1135-bot/DIGITAL-LITERACY-PROJECT
+Tools & Platforms Used:-
+-Canva (Designing infographic)
+-GitHub (Repository management)
+-LinkedIn (Professional networking)
+-Kaggle (Learning platform)
+-HackerRank (Coding practice)
+-Google Forms (Quiz creation)
+-Key Learning
+
+Importance of Digital Awareness:-
+- Keeps you safe online from scams and fraud.
+- Protects your personal data and privacy.
+- Helps identify fake news and misinformation.
+- Promotes responsible social media use.
+- Improves smart decision-making online.
+- Supports career and learning opportunities.
+- Prevents financial loss.
+- Encourages healthy screen habits.
+  
+  Future Plans- 
+Going forward, I am aiming to strengthen my  knowledge of programming  and become more confident in coding. I have also planned to start taking part in coding competitions so that i can  improve my problem-solving skills and can gain experience. I also want to work on real-world technical projects to actually apply what I had learned. Besides this, I will keep my professional profiles updated and will continue exploring the field of cybersecurity to expand my understanding.
+
+Conclusion:-
+This project helped me in using important digital tools by giving me hands-on experience and helped me in understanding key concepts. It showed me how technology can be applied practically and effectively for both learning as well as for career development. The skills and knowledge that I had gained from this project will be very useful in my studies as well as in shaping my future career.
+References applied :-
+-GitHub
+-LinkedIn
+-Kaggle
+-HackerRank
+-Google Forms
+-Canva
+This project is a part of my academic learning and reflects what I have understood about digital literacy in a practical way.
+
+
+
 
 
 
