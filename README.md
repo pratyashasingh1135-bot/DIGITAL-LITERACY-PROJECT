@@ -1,21 +1,24 @@
 Digital - Literacy Project 
  # Student information
-****Name: Pratyasha Singh
+Name: Pratyasha Singh
 Course Code: CSE0001
 Course Name: Digital Literacy
 University: VIT Bhopal University
 Program: Int. Mtech cse ( data science)
-**
+
 PROJECT OVERVIEW :-
 This project was created as a  part of the Digital Literacy course, where I took on the role of a Student Digital Ambassador. The aim is to make people understand and demonstrate  how students can effectively and responsibly navigate the digital world.
 Through this portfolio, I aimed to explore essential digital skills like creating professional online presence, usage of collaboration tools, practicing the safe online behavior, and  to communicate effectively..
 All the hereby tasks are organized in this repository, along with supporting files and a detailed project report.
-Project Objectives
+
+Project Objectives:-
 •	To understand what it really means and its importance.
 •	To  use platforms like Github for learning how to build a professional online presence 
 •	To  get help in academics, coding, and collaboration which is helpful to explore useful digital tools and platforms 
 •	To learn how to protect personal information and ensure the  awareness of online safety and cyber threats.
 •	To become a  responsible digital citizen by using the internet safely ,ethically  and productively.
+
+Project structure :-
 Task 1: Digital Literacy Infographic:-
 In this , I have added my infographic  that explains digital literacy in a simple and visual way.It includes topics like how to use internet safely , the tools which are really helpful for students and to maintain aprofessional online presence. Basically, this is a one-page visual that helps anyone quickly understand  what digital literacy actually is ?
 Task 2: Student Digital Portfolio:-
@@ -27,9 +30,11 @@ Task 4: Email Etiquette & Communication:-
 In this ,I have included the two professional email where the first one is to the  professor and  the second one for an internship)  and after that a checklist of do’s and don’ts for the usage of social media. This also  focuses on how to properly and professionally communicate in the digital world.
 Task 5: Cybercrime Awareness:-
 This actually contains a  case study which explains a particular type of cybercrime like phishing or UPI fraud but I had opted the topic of Phishing and had given a vivid description and scenario about that..also there is a prevention checklist with certain tips to stay online safely.. This task also helped me to understand the real risks which happens online and how one can avoid them.
+
 Links :-
 Google form -https://docs.google.com/forms/d/e/1FAIpQLScyDz_91Ykuc46HtGl6jzqzoCjikR1DIaDHA08UTDudMdv0Pg/viewform?usp=sharing&ouid=104918458002411872132
 Github repository - https://github.com/pratyashasingh1135-bot/DIGITAL-LITERACY-PROJECT
+
 Tools & Platforms Used:-
 -Canva (Designing infographic)
 -GitHub (Repository management)
@@ -54,6 +59,7 @@ Going forward, I am aiming to strengthen my  knowledge of programming  and becom
 
 Conclusion:-
 This project helped me in using important digital tools by giving me hands-on experience and helped me in understanding key concepts. It showed me how technology can be applied practically and effectively for both learning as well as for career development. The skills and knowledge that I had gained from this project will be very useful in my studies as well as in shaping my future career.
+
 References applied :-
 -GitHub
 -LinkedIn
