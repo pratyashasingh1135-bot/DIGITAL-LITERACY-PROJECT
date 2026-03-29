@@ -21,13 +21,17 @@ Project Objectives:-
 Project structure :-
 Task 1: Digital Literacy Infographic:-
 In this , I have added my infographic  that explains digital literacy in a simple and visual way.It includes topics like how to use internet safely , the tools which are really helpful for students and to maintain aprofessional online presence. Basically, this is a one-page visual that helps anyone quickly understand  what digital literacy actually is ?
+
 Task 2: Student Digital Portfolio:-
-This  contains screenshots of the professional profiles that I had created on the platforms such as Github , LinkedIn and Kaggle. The hereby goal was to start my own unique online identity as a student which can be very useful for the opportunities in the future and also in the internships...
+This  contains screenshots of the professional profiles that I had created on the platforms such as Github , LinkedIn and Kaggle. The hereby goal was to start my own unique online identity as a student which can be very useful for the opportunities in the future and also in the internships..
+
 Task 3: Coding & Collaboration Platforms:-
 This includes: the Screenshot of  the solved coding challenge which I had completed on an online platform named HackerRank and also the Screenshot of  the Google form that I had created as Digital Literacy Quiz  which includes the Screenshot of responses as Google sheet view.
  This task helped me  in exploring  the practical tools which are  used for coding practice 
+ 
 Task 4: Email Etiquette & Communication:-
 In this ,I have included the two professional email where the first one is to the  professor and  the second one for an internship)  and after that a checklist of do’s and don’ts for the usage of social media. This also  focuses on how to properly and professionally communicate in the digital world.
+
 Task 5: Cybercrime Awareness:-
 This actually contains a  case study which explains a particular type of cybercrime like phishing or UPI fraud but I had opted the topic of Phishing and had given a vivid description and scenario about that..also there is a prevention checklist with certain tips to stay online safely.. This task also helped me to understand the real risks which happens online and how one can avoid them.
 
