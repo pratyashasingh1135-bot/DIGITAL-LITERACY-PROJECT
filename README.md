@@ -37,25 +37,39 @@ This actually contains a  case study which explains a particular type of cybercr
 
 Links :-
 Google form -https://docs.google.com/forms/d/e/1FAIpQLScyDz_91Ykuc46HtGl6jzqzoCjikR1DIaDHA08UTDudMdv0Pg/viewform?usp=sharing&ouid=104918458002411872132
+
 Github repository - https://github.com/pratyashasingh1135-bot/DIGITAL-LITERACY-PROJECT
 
 Tools & Platforms Used:-
 -Canva (Designing infographic)
+
 -GitHub (Repository management)
+
 -LinkedIn (Professional networking)
+
 -Kaggle (Learning platform)
+
 -HackerRank (Coding practice)
+
 -Google Forms (Quiz creation)
+
 -Key Learning
 
 Importance of Digital Awareness:-
 - Keeps you safe online from scams and fraud.
+  
 - Protects your personal data and privacy.
+  
 - Helps identify fake news and misinformation.
+  
 - Promotes responsible social media use.
+  
 - Improves smart decision-making online.
+  
 - Supports career and learning opportunities.
+  
 - Prevents financial loss.
+  
 - Encourages healthy screen habits.
   
   Future Plans- 
