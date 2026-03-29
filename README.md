@@ -80,11 +80,17 @@ This project helped me in using important digital tools by giving me hands-on ex
 
 References applied :-
 -GitHub
+
 -LinkedIn
+
 -Kaggle
+
 -HackerRank
+
 -Google Forms
+
 -Canva
+
 This project is a part of my academic learning and reflects what I have understood about digital literacy in a practical way.
 
 
